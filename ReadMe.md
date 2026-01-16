@@ -1,6 +1,6 @@
 # AWS Web Application Firewall Project
 
-This project shows how to deploy a basic web application on AWS using an EC2 instance, an Application Load Balancer and AWS Web Application Firewall (WAF). It also demonstrates how to allow, block and captcha incoming traffic based on IP addresses.
+This project shows how to deploy a basic web application on AWS using an EC2 instance, an Application Load Balancer and AWS Web Application Firewall (WAF). It also demonstrates how to allow, block, and captcha incoming traffic based on IP addresses.
 
 ## What I Built
 
@@ -28,11 +28,9 @@ This project shows how to deploy a basic web application on AWS using an EC2 ins
   - Captcha challenge (user solves puzzle before entry)
 
 ## What This Project Demonstrates
-- How to build end to end secure cloud infrastructure on AWS
+- How to build an end-to-end secure cloud infrastructure on AWS
 - How to route and protect traffic with an ALB and WAF
 - How to control access and respond to real user requests in real time
 
-## Next Steps
-- Add VPC peering between networks
-- Try integrating CloudFront and Shield
-- Add logging and monitoring with CloudWatch
+<img width="1920" height="1080" alt="Screenshot 2025-12-30 165738" src="https://github.com/user-attachments/assets/eb7e2b9b-87e3-418e-acbb-ca7d34bb0435" />
+
